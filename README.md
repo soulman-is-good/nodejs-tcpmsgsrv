@@ -1,7 +1,7 @@
 Royal Messenger
 ===================
 
-Royal messenger works via tcp protocol and with encryption **AES-256-GCM** based on _Diffie-Hellman_ algorithm by modp14.
+Royal messenger works via tcp protocol and with encryption **AES-256-CTR** based on _Diffie-Hellman_ algorithm by modp14.
 
 TCP packet structure
 ----------------------
